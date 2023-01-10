@@ -22,5 +22,4 @@ Thank you for reading!
   pages={76044--76054},
   year={2022},
   publisher={IEEE}
-}
 }</pre>
