@@ -12,3 +12,15 @@ I hope you found some useful information and hopefully it helps you on your proj
 Let me know if you have some ideas/suggestions to improve it.
 
 Thank you for reading!
+
+<pre>
+@article{nguyen2022checkerboard,
+  title={Checkerboard Dropout: A Structured Dropout With Checkerboard Pattern for Convolutional Neural Networks},
+  author={Nguyen, Khanh-Binh and Choi, Jaehyuk and Yang, Joon-Sung},
+  journal={IEEE Access},
+  volume={10},
+  pages={76044--76054},
+  year={2022},
+  publisher={IEEE}
+}
+}</pre>
